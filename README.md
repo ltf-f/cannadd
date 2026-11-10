@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 算子调试
 
 安装 CANN Toolkit 9.0 或兼容版本、CMake，以及 Python 依赖：
@@ -27,3 +28,6 @@ NPU_ARCH=dav-2201 bash run.sh cpu
 ```
 
 `reference.py` 如使用额外 Python 库，需要另行安装。
+=======
+# cannadd
+>>>>>>> dd9bd19e071633dbfa25b33c7b2e2cb8a2747f39
